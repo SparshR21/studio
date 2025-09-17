@@ -1,3 +1,10 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "velocity-showcase",
+      "description": "An abstract, colorful image representing speed and technology.",
+      "imageUrl": "https://picsum.photos/seed/velocity1/1280/960",
+      "imageHint": "abstract technology"
+    }
+  ]
 }
